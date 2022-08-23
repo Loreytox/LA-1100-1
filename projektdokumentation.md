@@ -4,7 +4,7 @@ Lorenzo Lai
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   23.08.22    | 0.0.1   | Heute haben wir unsere erste Projektdokumentation gemacht.  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -19,17 +19,20 @@ Einen sehr simplen und einfache Number guesser game.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss            |   Funktional   | Als Spieler möchte ich wissen, dass wenn man einen Zahl hinein schreibt, es gesagt wird, ob es grösser oder kleiner ist, damit man weisst, ob man höher oder kleiner eintippen muss.  |
-| 2    |   Muss          |   Funktional   | Als Spieler möchte ich wissen, wenn ich den richtigen Zahl eintippe, es direkt sagt, damit ich weiss, dass ich gewonnen habe.  |    | 3    |   Muss          |   Funktional   | Als Spieler möchte die wahl haben, dass wenn ich gewonnen habe, den Spiel neustarten kann, damit ich wieder spielenn kann.  |
+| 2    |   Muss          |   Funktional   | Als Spieler möchte ich wissen, wenn ich den richtigen Zahl eintippe, es direkt sagt, damit ich weiss, dass ich gewonnen habe.  |    | 3    |   Muss          |   Funktional   | Als Spieler möchte ich die wahl haben, dass wenn ich gewonnen habe, den Spiel neustarten kann, damit ich wieder spielenn kann.  |
 | 4    |   kann          |   Qualität     | Als Spieler würde ich gerne einen kleinen Text am ende haben, der sagt, ob ich gewonnen habe, damit ich fröhlich bin.  |
+| 5    |   kann          |   Qualität     | Als Spieler möchte ich gerne sehen, wenn ich Gewinne, einen kleinen "Victory Sound" hören damit mein Tag fröhlicher wird.  |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  |  Das Programm ist gestartet und den Zahl ist bereits schon geneririert worden.  | *hallo welt* |  *Bitte nur Zahlen eingeben!* |
+| 1.2  |  Das Programm ist gestartet und den Zahl ist bereits schon geneririert worden.  |  *23*  |  *Zahl ist zu klein, bitte weiter probieren*.  |
+| 2.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Zahl erfolgreich gefunden.* |
+| 3.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Wahl wird gegeben, ob man weiterspielen möchte oder nicht.* |
+| 4.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Gratulation! Sie haben gewonnen!* |
+| 5.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Audio von- "We are the champions", spielt.*  |
 
 ### 1.4 Diagramme
 
@@ -39,8 +42,10 @@ Einen sehr simplen und einfache Number guesser game.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  23.08.22  |  Ich  |  Realisierung eines Projektdokument.  |  4 * 45  |
+| 1.B  |  30.08.22  |  Ich  |  Realisierung wird angefangen.  |  4 * 45  |
+| 1.C  |  6.09.22   |  Ich  |  Realisierung wird fortgesetzt, beendet und getestet.  |  3 * 45 |
+| 1.D  |  13.09.22  |  Ich  |  Projekt fertiggetestet und abgegeben  |  2 * 45  |
 
 Total: 
 
