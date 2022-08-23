@@ -34,6 +34,7 @@ Einen sehr simplen und einfache Number guesser game.
 ### 1.4 Diagramme
 
 
+![Number guesser game](https://user-images.githubusercontent.com/110893594/186111432-fb071fd7-6291-4304-8001-0f990c2ed75c.png)
 
 ## 2 Planen
 
