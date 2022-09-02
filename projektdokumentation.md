@@ -5,7 +5,7 @@ Lorenzo Lai
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08.22    | 0.0.1   | Heute haben wir unsere erste Projektdokumentation gemacht.  |
-|       | ...     |                                                              |
+|   30.08.22    | 0.0.2   | Heute habe ich mein Projekt (Numberguessing game) angefangen und bin gut unterwegs mit die Programmierung.                                                            |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -43,7 +43,7 @@ Einen sehr simplen und einfache Number guesser game.
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  23.08.22  |  Ich  |  Realisierung eines Projektdokument.  |  4 * 45  |
-| 1.B  |  30.08.22  |  Ich  |  Realisierung wird angefangen.  |  4 * 45  |
+| 1.B  |  30.08.22  |  Ich  |  Realisierung wird angefangen. (Numberguessing generator)  |  4 * 45  |
 | 1.C  |  6.09.22   |  Ich  |  Realisierung wird fortgesetzt, beendet und getestet.  |  3 * 45 |
 | 1.D  |  13.09.22  |  Ich  |  Projekt fertiggetestet und abgegeben  |  2 * 45  |
 
@@ -61,7 +61,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |  30.08.22  |  Ich  |  10  |  30   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
