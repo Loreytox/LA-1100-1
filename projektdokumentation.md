@@ -21,7 +21,7 @@ Einen sehr simplen und einfache Number guesser game.
 | 1    | Muss            |   Funktional   | Als Spieler möchte ich wissen, dass wenn man einen Zahl hinein schreibt, es gesagt wird, ob es grösser oder kleiner ist, damit man weisst, ob man höher oder kleiner eintippen muss.  |
 | 2    |   Muss          |   Funktional   | Als Spieler möchte ich wissen, wenn ich den richtigen Zahl eintippe, es direkt sagt, damit ich weiss, dass ich gewonnen habe.  |    | 3    |   Muss          |   Funktional   | Als Spieler möchte ich die wahl haben, dass wenn ich gewonnen habe, den Spiel neustarten kann, damit ich wieder spielenn kann.  |
 | 4    |   kann          |   Qualität     | Als Spieler würde ich gerne einen kleinen Text am ende haben, der sagt, ob ich gewonnen habe, damit ich fröhlich bin.  |
-| 5    |   kann          |   Qualität     | Als Spieler möchte ich gerne sehen, wenn ich Gewinne, einen kleinen "Victory Sound" hören damit mein Tag fröhlicher wird.  |
+| 5    |   Muss          |   Funktional   | Als Spieler möchte ich gerne ddie Möglichkeit habe, wieder zu spielen, nachdem ich die Richtige Zahl eingetippt habe.  |
 
 ### 1.3 Testfälle
 
