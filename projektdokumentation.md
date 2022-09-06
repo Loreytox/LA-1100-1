@@ -21,7 +21,7 @@ Einen sehr simplen und einfache Number guesser game.
 | 1    | Muss            |   Funktional   | Als Spieler möchte ich wissen, dass wenn man einen Zahl hinein schreibt, es gesagt wird, ob es grösser oder kleiner ist, damit man weisst, ob man höher oder kleiner eintippen muss.  |
 | 2    |   Muss          |   Funktional   | Als Spieler möchte ich wissen, wenn ich den richtigen Zahl eintippe, es direkt sagt, damit ich weiss, dass ich gewonnen habe.  |    | 3    |   Muss          |   Funktional   | Als Spieler möchte ich die wahl haben, dass wenn ich gewonnen habe, den Spiel neustarten kann, damit ich wieder spielenn kann.  |
 | 4    |   kann          |   Qualität     | Als Spieler würde ich gerne einen kleinen Text am ende haben, der sagt, ob ich gewonnen habe, damit ich fröhlich bin.  |
-| 5    |   Muss          |   Funktional   | Als Spieler möchte ich gerne ddie Möglichkeit habe, wieder zu spielen, nachdem ich die Richtige Zahl eingetippt habe.  |
+| 5    |   Muss          |   Funktional   | Als Spieler möchte ich gerne die Möglichkeit haben, nachdem ich gewonnen habe, weiter zu spielen.  |
 
 ### 1.3 Testfälle
 
@@ -29,10 +29,11 @@ Einen sehr simplen und einfache Number guesser game.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Das Programm ist gestartet und den Zahl ist bereits schon geneririert worden.  | *hallo welt* |  *Bitte nur Zahlen eingeben!* |
 | 1.2  |  Das Programm ist gestartet und den Zahl ist bereits schon geneririert worden.  |  *23*  |  *Zahl ist zu klein, bitte weiter probieren*.  |
+| 1.3  |  Das Programm ist gestartet und den Zahl ist bereits schon geneririert worden.  |  *23*  |  *Zahl ist zu gross, bitte weiter probieren*.  |
 | 2.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Zahl erfolgreich gefunden.* |
 | 3.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Wahl wird gegeben, ob man weiterspielen möchte oder nicht.* |
 | 4.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Gratulation! Sie haben gewonnen!* |
-| 5.1  |  Das Programm ist gestartet und den Zahl ist bereits schon gefunden worden.  | *Enter* | *Audio von- "We are the champions", spielt.*  |
+
 
 ### 1.4 Diagramme
 
