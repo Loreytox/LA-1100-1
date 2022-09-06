@@ -21,7 +21,6 @@ Einen sehr simplen und einfache Number guesser game.
 | 1    | Muss            |   Funktional   | Als Spieler möchte ich wissen, dass wenn man einen Zahl hinein schreibt, es gesagt wird, ob es grösser oder kleiner ist, damit man weisst, ob man höher oder kleiner eintippen muss.  |
 | 2    |   Muss          |   Funktional   | Als Spieler möchte ich wissen, wenn ich den richtigen Zahl eintippe, es direkt sagt, damit ich weiss, dass ich gewonnen habe.  |    | 3    |   Muss          |   Funktional   | Als Spieler möchte ich die wahl haben, dass wenn ich gewonnen habe, den Spiel neustarten kann, damit ich wieder spielenn kann.  |
 | 4    |   kann          |   Qualität     | Als Spieler würde ich gerne einen kleinen Text am ende haben, der sagt, ob ich gewonnen habe, damit ich fröhlich bin.  |
-| 5    |   Muss          |   Funktional   | Als Spieler möchte ich gerne die Möglichkeit haben, nachdem ich gewonnen habe, weiter zu spielen.  |
 
 ### 1.3 Testfälle
 
@@ -50,7 +49,7 @@ Einen sehr simplen und einfache Number guesser game.
 | 2.B  |  30.08.22  |  Ich  |  Es wird mit *==* gearbeitet.  |  1 * 45  |
 | 3.A  |  06.09.22  |  Ich  |  Neue Variabel *y|n* werden esrtellt.  | 1 * 45  |
 | 3.B  |  06.09.22  |  Ich  |  Wie vorher schon gelernt, Es wird jetzt mit *while* Schleifen programmiert.  |  2 * 45  |
-| 4.A  |  06.09.22  |  Ich  |  
+| 4.A  |  06.09.22  |  Ich  |  Es wird mit: *Console.WriteLine(); und Console.ReadLine();* gearbeitet, um ein Text am ende zu erhalten.  |  1 * 45  |
 
 
 
@@ -68,10 +67,14 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  30.08.22  |  Ich  |  10  |  30   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+|  1.A  |  30.08.22  |  Ich  |  1 * 45  |  1 * 45  |  
+|  1.B  |  30.08.22  |  Ich  |  1 * 45  |  2 * 45  |
+|  1.C  |  30.08.22  |  Ich  |  1 * 45  |  3 * 45  |
+|  2.A  |  30.08.22  |  Ich  |  1 * 45  |  1 * 45  |
+|  2.B  |  30.08.22  |  Ich  |  1 * 45  |  1 * 45  |
+|  3.A  |  06.09.22  |  Ich  |  1 * 45  |  1 * 45  |
+|  3.B  |  06.09.22  |  Ich  |  2 * 45  |  3 * 45  |
+|  4.A  |  06.09.22  |  Ich  |  1 * 45  |  1 * 45  |
 
 ## 5 Kontrollieren
 
