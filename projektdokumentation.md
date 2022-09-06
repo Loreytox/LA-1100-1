@@ -5,8 +5,8 @@ Lorenzo Lai
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08.22    | 0.0.1   | Heute haben wir unsere erste Projektdokumentation gemacht.  |
-|   30.08.22    | 0.0.2   | Heute habe ich mein Projekt (Numberguessing game) angefangen und bin gut unterwegs mit die Programmierung.                                                            |
-|       | 1.0.0   |                                                              |
+|   30.08.22    | 0.0.2   | Heute habe ich mein Projekt (Numberguessing game) angefangen und bin gut unterwegs mit die Programmierung.                                         
+|   06.09.22    | 1.0.0   | Heute bin ich mit mein Projekt fertig geworden und somit kann ich jetzt anfangen neue Features zu addieren.  |
 
 ## 1 Informieren
 
@@ -43,10 +43,16 @@ Einen sehr simplen und einfache Number guesser game.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  23.08.22  |  Ich  |  Realisierung eines Projektdokument.  |  4 * 45  |
-| 1.B  |  30.08.22  |  Ich  |  Realisierung wird angefangen. (Numberguessing generator)  |  4 * 45  |
-| 1.C  |  6.09.22   |  Ich  |  Realisierung wird fortgesetzt, beendet und getestet.  |  3 * 45 |
-| 1.D  |  13.09.22  |  Ich  |  Projekt fertiggetestet und abgegeben  |  2 * 45  |
+| 1.A  |  30.08.22  |  Ich  |  Informationen holen und sich für die richtige Operatoren entscheiden   |  1 * 45  |
+| 1.B  |  30.08.22  |  Ich  |  Variabeln werden erstellt und es wird mit *if/while* Schleife gearbeitet.  |  1 * 45  |
+| 1.C  |  30.08.22  |  Ich  |  Operatoren zusammenbringen und konfigurieren, somit es gesagt wird, ob etwas grösser oder kleiner sein sollte. |  1 * 45 |
+| 2.A  |  30.08.22  |  Ich  |  Sich darüber informieren, welche Operatoren was machen.  |  1 * 45  |
+| 2.B  |  30.08.22  |  Ich  |  Es wird mit *==* gearbeitet.  |  1 * 45  |
+| 3.A  |  06.09.22  |  Ich  |  Neue Variabel *y|n* werden esrtellt.  | 1 * 45  |
+| 3.B  |  06.09.22  |  Ich  |  Wie vorher schon gelernt, Es wird jetzt mit *while* Schleifen programmiert.  |  2 * 45  |
+| 4.A  |  06.09.22  |  Ich  |  
+
+
 
 Total: 
 
