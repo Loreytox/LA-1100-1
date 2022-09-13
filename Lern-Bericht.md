@@ -55,7 +55,7 @@ Dies wäre, was man auf der Konsole sieht und eintippen kann.
 
 # Reflexion zum Arbeitsprozess
 
-Es ging alles ziemlich langsam und verzögert, doch gut habe ich die Verifikationen mit den *if* Schleifen gemacht für zu gross/klein und ausserhalb von 1 bis 100.
+Es ging alles ziemlich langsam und verzögert, doch gut habe ich die Verifikationen mit den *if* Schleifen für zu gross/klein und ausserhalb von 1 bis 100 gemacht.
 
 Den Looping Teil des Codes wurde sehr kompliziert, damit verbrauchte ich etwa 3 - 5 Stunden nur für den Looping Teil meines Codes. Ich musste nun zusätzlich meine Kameraden an um Hilfe bitten.
 
