@@ -13,29 +13,29 @@ Ich habe gelernt, wie man mit einem *while* Schleife arbeitet, um Loops zu erste
 
 Dieses Projekt forderte mich sehr und somit habe ich auch vieles gelernt; Mein Projekt funktioniert auf eine simple *while(true)* Schleife, die der ganze Prozess wiederholt, Ich musste auch verstehen, die Wichtigkeit von Variablen, da ohne Sie, gar nichts angefangen werden kann. Eine beliebige Zahl sollte generiert werden, das habe ich mit Hilfe von den Webseite *Stack Overflow* gelernt. Um "Unbekannte" Eingaben zu fangen, habe ich eine *try/catch* Schleife gemacht, die nur Zahlen akzeptiert. Eine *while (versuch != zahl)* Schleife hat mir sehr geholfen, um die Frage: "Möchten Sie weiterspielen? ja/nein", zu beantworten, das finde ich wichtig und es half mir sehr
 
-```
+```csharp
 
 if (versuch > 100 || versuch < 1)
-                        {
-                            throw new Exception();
-                        }                      
-                        if (versuch < zahl)
-                        {
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(":::::::::::::::::::::::::::::::::");
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.WriteLine("Falsch! Die gesuchte Zahl ist grösser als {0}.", versuch);
-                        }
-                        if (versuch > zahl)
-                        {
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(":::::::::::::::::::::::::::::::::");
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.WriteLine("Falsch! Die gesuchte Zahl ist kleiner als {0}.", versuch);
-                        }
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.Write("Geben Sie bitte eine andere zahl als {0}: ", versuch);
-                        versuch = Convert.ToInt32(Console.ReadLine());
+{
+    throw new Exception();
+}                      
+if (versuch < zahl)
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine(":::::::::::::::::::::::::::::::::");
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine("Falsch! Die gesuchte Zahl ist grösser als {0}.", versuch);
+}
+if (versuch > zahl)
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine(":::::::::::::::::::::::::::::::::");
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine("Falsch! Die gesuchte Zahl ist kleiner als {0}.", versuch);
+}
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.Write("Geben Sie bitte eine andere zahl als {0}: ", versuch);
+versuch = Convert.ToInt32(Console.ReadLine());
 
 ```
 
