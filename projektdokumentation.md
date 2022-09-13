@@ -93,7 +93,7 @@ Meine Testprotokolle sind perfekt und es ging alles gut.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |Zahl wird erraten, Wollen sie sie nochmal Spielen?[Ja/Nein]|Andere Zeichen als Ja oder Nein|Ungültige Eingabe|Programm wird beendet.|
+| I    |Zahl wird erraten, Wollen Sie sie nochmal Spielen?[Ja/Nein]|Andere Zeichen als Ja oder Nein|Ungültige Eingabe|Programm wird beendet.|
 
 Explorative Tests wurden von Keanu Koelewijn durchgeführt.
 
