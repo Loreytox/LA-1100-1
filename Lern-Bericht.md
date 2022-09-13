@@ -10,6 +10,12 @@ Mein erste Projekt war ein Numbergenerator auf c# zu programmieren, dies war nic
 Sehr wichtig habe ich gefunden und gelernt, wie man ein Loop mit *while* Schleife wiederholt bis die Bedingung: "Möchten Sie weiterspielen? [ja|nein]" mit *ja* beantwortet wird. Am anfang war es ziemlich kompliziert und unverständlich, doch bald lernte ich die verschiedene Variabeln und Zusammensätzungen dieser Schleife.
 
 ## Beschreibung
+
+![string Code](https://user-images.githubusercontent.com/110893594/189840854-f59834cb-dbdd-4b4d-ba29-75e465d5aadf.png)
+Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu tief, zu hoch oder nicht zwischen 1 und 100 geschätzt hat. Ds ist sehr wichtig, weil sonst würde man ohne bedingungen für zu tief/hoch nicht wissen, was zu tippen. Ich habe die *if* Schleife in kombination mit die *try/catch* Schleife verwendet; somit können nur Zahlen zwischen 1 und 100 und keine Buchstaben akzeptiert werden.
+
+
+
 ![6t72jn](https://user-images.githubusercontent.com/110893594/189840107-bd637929-d7ee-496e-ae18-66e1f69f5c5c.gif)
 
 * Eine textliche Beschreibung
