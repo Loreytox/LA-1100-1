@@ -12,7 +12,8 @@ Sehr wichtig habe ich gefunden und gelernt, wie man ein Loop mit *while* Schleif
 ## Beschreibung
 
 ![string Code](https://user-images.githubusercontent.com/110893594/189840854-f59834cb-dbdd-4b4d-ba29-75e465d5aadf.png)
-Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu tief, zu hoch oder nicht zwischen 1 und 100 geschätzt hat. Ds ist sehr wichtig, weil sonst würde man ohne bedingungen für zu tief/hoch nicht wissen, was zu tippen. Ich habe die *if* Schleife in kombination mit die *try/catch* Schleife verwendet; somit können nur Zahlen zwischen 1 und 100 und keine Buchstaben akzeptiert werden.
+
+Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu tief, zu hoch oder nicht zwischen 1 und 100 geschätzt hat. Ds ist sehr wichtig, weil sonst würde man ohne bedingungen für zu tief/hoch nicht wissen, was zu tippen. Ich habe die *if* Schleife in kombination mit die *try/catch* Schleife verwendet mit einem *throw* command; somit können nur Zahlen zwischen 1 und 100 und keine Buchstaben akzeptiert werden.
 
 
 
