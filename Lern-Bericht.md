@@ -13,7 +13,7 @@ Ich habe gelernt, wie man mit einem *while* Schleife arbeitet, um Loops zu erste
 
 Dieses Projekt forderte mich sehr und somit habe ich auch vieles gelernt; Mein Projekt funktioniert auf eine simple *while(true)* Schleife die das ganze Prozess wiefderholt, Ich musste auch verstehen, die Wichtigkeit von Variabeln
 
-'''
+```
 
 if (versuch > 100 || versuch < 1)
                         {
@@ -37,7 +37,7 @@ if (versuch > 100 || versuch < 1)
                         Console.Write("Geben Sie bitte eine andere zahl als {0}: ", versuch);
                         versuch = Convert.ToInt32(Console.ReadLine());
 
-'''
+```
 
 Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu tief, zu hoch oder nicht zwischen 1 und 100 geschätzt hat. Ds ist sehr wichtig, weil sonst würde man ohne bedingungen für zu tief/hoch nicht wissen, was zu tippen. Ich habe die *if* Schleife in kombination mit die *try/catch* Schleife verwendet mit einem *throw* command; somit können nur Zahlen zwischen 1 und 100 und keine Buchstaben akzeptiert werden.
 
