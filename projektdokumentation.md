@@ -97,8 +97,6 @@ Meine Testprotokolle sind perfekt und es ging alles gut.
 
 Explorative Tests wurden von Keanu Koelewijn durchgeführt.
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
