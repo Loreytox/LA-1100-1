@@ -41,7 +41,7 @@ versuch = Convert.ToInt32(Console.ReadLine());
 
 Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu tief, zu hoch oder nicht zwischen 1 und 100 geschätzt hat. Das ist sehr wichtig, weil sonst würde man ohne Bedingungen für zu tief/hoch nicht wissen, was zu tippen. Ich habe die *if* Schleife in Kombination mit dem *try/catch* Schleife verwendet, mit einem *throw* command; somit können nur Zahlen zwischen 1 und 100 und keine Buchstaben akzeptiert werden.
 
-![6t72jn](https://user-images.githubusercontent.com/110893594/189840107-bd637929-d7ee-496e-ae18-66e1f69f5c5c.gif)
+![6t7erj](https://user-images.githubusercontent.com/110893594/189854431-6d6ec39c-e6e1-4901-823f-dfe9528a1945.gif)
 
 Dies wäre, was man auf der Konsole sieht und eintippen kann.
 
