@@ -43,7 +43,7 @@ Das wäre den Teil meines Codes, wo es gelesen und registriert wird, ob man zu t
 
 ![6t7erj](https://user-images.githubusercontent.com/110893594/189854431-6d6ec39c-e6e1-4901-823f-dfe9528a1945.gif)
 
-Dies wäre, was man auf der Konsole sieht und eintippen kann.
+Das wäre, was man auf der Konsole sieht und eintippen kann, es zeigt, wie mein Spiel aussieht und was passiert wenn man buchstaben oder faslche Zahlen eintippt.
 
 ## Verifikation
 
