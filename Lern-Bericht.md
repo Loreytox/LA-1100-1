@@ -47,9 +47,11 @@ Dies wäre was man auf der Konsole sieht und eintippen kann.
 
 ## Verifikation
 
-#Text-Beschreibung: Den text beschreibt wie ich die verschiedene Schleifen und Operatoren verstehe, dies ist nicht 100% Genau, da es nur mein Sicht-Punkt ist.
-#String: Das wäre den teil meines Codes wo die eigentliche Arbeitprozesse passieren.
-#GIF: Es zeigt, wie das ganze Programm funktioniert und operiert. (Inklusive testfälle wie wenn man eine Buchstabe eintippt)
+Text-Beschreibung: Den text beschreibt wie ich die verschiedene Schleifen und Operatoren verstehe, dies ist nicht 100% Genau, da es nur mein Sicht-Punkt ist.
+
+String: Das wäre den teil meines Codes wo die eigentliche Arbeitprozesse passieren.
+
+GIF: Es zeigt, wie das ganze Programm funktioniert und operiert. (Inklusive testfälle wie wenn man eine Buchstabe eintippt)
 
 # Reflektion zum Arbeitsprozess
 
